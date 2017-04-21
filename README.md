@@ -179,6 +179,8 @@ var options = {
   all: false,
   // Languages of subtitles to download, separated by commas.
   lang: 'en',
+  // Add more params for youtube download
+  others: '--no-check-certificate',
   // The directory to save the downloaded files in.
   cwd: __dirname,
 };

@@ -9,7 +9,7 @@
   "version": "1.11.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-youtube-dl.git"
+    "url": "git://github.com/toanz/node-youtube-dl.git"
   },
   "author": "Roly Fentanes (https://github.com/fent)",
   "contributors": [
